@@ -39,7 +39,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_USB_Driver
+   https://bit.ly/CH340_USBdriver
    ```
 
    </td></tr></table>
