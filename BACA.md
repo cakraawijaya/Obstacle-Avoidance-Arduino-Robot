@@ -39,7 +39,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CH340_USB_Driver
+   https://bit.ly/CH340_USBdriver
    ```
 
    </td></tr></table>
