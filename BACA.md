@@ -85,9 +85,9 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
       Cara mengatur board ``` Arduino Uno ```
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
    
-      Klik ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```
+      Pilih papan dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```
 
       </td></tr>
    </table><br>
