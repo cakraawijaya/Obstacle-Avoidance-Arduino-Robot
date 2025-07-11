@@ -85,9 +85,9 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
       How to setup the ``` Arduino Uno ``` board
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
       
-      Click ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```
+      Select a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```
 
       </td></tr>
    </table><br>
