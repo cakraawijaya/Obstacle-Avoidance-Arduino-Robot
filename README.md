@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Obstacle-Avoidance-Arduino-Robot
+# Obstacle Avoidance Arduino Robot
 Robots are tools that can ease the burden on humans. Robots can be controlled by humans directly, but actually robots can also make their own decisions if given an intelligent algorithm. The type of robot that is often used in school activities is a wheeled robot. A wheeled robot is a robot that moves by using wheels. The purpose of this project is to get good navigation capabilities on wheeled robots. This project has been carried out and took approximately 3 days. The robot moves and then the ultrasonic sensor will detect whether the area to be passed is safe or not. If there are obstacles in the way, then the robot will avoid them and find another way. The benefits of making this project are none other than to add insight. The results show that the system created can reduce the risk of collisions, because this robot can recognize objects in the surrounding environment well.
 
 <br><br>
