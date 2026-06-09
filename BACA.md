@@ -13,7 +13,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 | Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | Arduino Uno R3 |
-| Editor Kode | Arduino IDE |
+| Editor Kode | Arduino IDE 1.8.19 (Versi Lama yang Stabil) |
 | Driver | CH340 USB Driver |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | • Adafruit-Motor-Shield<br>• Servo |
