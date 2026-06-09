@@ -13,7 +13,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 | Part | Description |
 | --- | --- |
 | Development Board | Arduino Uno R3 |
-| Code Editor | Arduino IDE |
+| Code Editor | Arduino IDE 1.8.19 (Stable Legacy Version) |
 | Driver | CH340 USB Driver |
 | Programming Language | C/C++ |
 | Arduino Library | • Adafruit-Motor-Shield<br>• Servo |
