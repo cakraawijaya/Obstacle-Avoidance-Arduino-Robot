@@ -19,7 +19,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 | Pustaka Arduino | • Adafruit-Motor-Shield oleh Adafruit (Versi: 1.0.1)<br>• Servo oleh Michael Margolis (Versi: 1.2.1) |
 | Aktuator | • Motor Servo SG90 180° (x1)<br>• Motor Gear / Motor DC (x4) |
 | Sensor | HC-SR04: Sensor Ultrasonik (x1) |
-| Komponen Lainnya | • Kabel USB tipe B - USB tipe A (x1)<br>• Kabel Jumper (1 set)<br>• KCD11: Saklar Pengayun SPST (x1)<br>• Baterai Li-ion 18650 (x2)<br>• Tempat baterai seri 2 slot (x1)<br>• Roda robot (x4)<br>• Motor driver shield L293D (x1)<br>• Kerangka robot mobil (x1) |
+| Komponen Lainnya | • Kabel USB tipe B - USB tipe A (x1)<br>• Kabel Jumper (1 set)<br>• KCD11: Saklar Pengayun SPST (x1)<br>• Baterai Li-ion 18650 (x2)<br>• Tempat baterai seri 2 slot (x1)<br>• Roda robot (x4)<br>• Motor driver shield L293D (x1)<br>• Kerangka robot mobil (x1)<br>• Braket Pemasangan Servo untuk HC-SR04 (x1) |
 
 <br><br>
 
